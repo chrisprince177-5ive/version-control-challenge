@@ -19,3 +19,15 @@ This repository contains beginner study notes for version control practice using
 2. Review the Git commands
 3. Practice using GitHub workflows
 4. Learn how version control works
+
+
+## Why Version Control is Important
+
+- Tracks project history
+- Makes teamwork easier
+- Prevents losing important work
+- Helps developers collaborate safely
+
+## Branches
+
+Branches allow developers to work on new features separately from the main project.

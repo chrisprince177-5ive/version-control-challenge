@@ -39,3 +39,14 @@ git commit -m "message"
 ```bash
 git push origin main
 ```
+
+## Why Version Control is Important
+
+- Tracks project history
+- Makes teamwork easier
+- Prevents losing important work
+- Helps developers collaborate safely
+
+## Branches
+
+Branches allow developers to work on new features separately from the main project.
